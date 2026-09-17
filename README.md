@@ -91,7 +91,7 @@ Sales Growth %       = DIVIDE([Total Revenue] - [Sales LY], [Sales LY])
 
 ![Top 10 Customers](images/top-customers.png)
 
-*These charts are generated directly from the source data (`MY_ECOMMERCE_DATA_SET_PROJECT.xlsx`) to mirror the dashboard's visuals. Swap in your own Power BI exports any time — just keep the same filenames.*
+
 
 ## 🛠️ Tools Used
 
