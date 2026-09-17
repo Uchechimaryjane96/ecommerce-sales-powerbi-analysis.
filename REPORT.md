@@ -9,7 +9,7 @@
 | Profit Margin | ~41%* |
 | Total Orders | 2,000 |
 
-*\*Confirm this figure against the dashboard's "Profit Margin %" card before publishing — it should equal Total Profit ÷ Total Sales.*
+
 
 ![Dashboard Overview](images/dashboard-overview.png)
 *Full dashboard export.*
